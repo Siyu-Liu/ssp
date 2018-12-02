@@ -13,6 +13,4 @@ dependencies:
   - nltk
   - ipython
   - pyLDAvis
-  - scikit_learn
-  - vaderSentiment
   - xlrd
