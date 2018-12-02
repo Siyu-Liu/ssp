@@ -4,3 +4,15 @@ dependencies:
   - appmode
   - gensim
   - matplotlib
+  - pandas
+  - setuptools
+  - numpy
+  - ipywidgets
+  - wordcloud
+  - pandas
+  - nltk
+  - ipython
+  - pyLDAvis
+  - scikit_learn
+  - vaderSentiment
+  - xlrd
