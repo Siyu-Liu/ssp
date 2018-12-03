@@ -1,7 +1,6 @@
-#!/bin/bash
+#set up jupyter widgets
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter trust ~/SSPP-Web-app.ipynb
 
-pip install .
-jupyter nbextension     enable --py --sys-prefix appmode
-jupyter serverextension enable --py --sys-prefix appmode
-
-#EOF
+exit 0
